@@ -2,7 +2,7 @@
 title: Customize
 ---
 
-! [mi favorito] (ANTPS-78RadarNorthropGrumman.jpg)
+![](ANTPS-78RadarNorthropGrumman.jpg)
 
 ## Edit and add your pages
 
